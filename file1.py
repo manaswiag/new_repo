@@ -6,5 +6,7 @@ elif inp == 2:
   os.system("calc")
 elif inp==3:
   os.system("google chrome")
- else:
+elif inp==4:
+  os.system("mspaint")
+else:
   print("wrong choice")
